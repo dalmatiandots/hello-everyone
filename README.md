@@ -6,3 +6,6 @@ following by course: The Complete Git and GitHub Basics Course for Beginners [20
 
 ***
 Bob Ross quote: "Every day is a good day when you paint. Every day is a good day when you paint. Believe that you can do it cause you can do it."
+
+***
+izmjene na ovom dokumentu samo za branch update-readme
